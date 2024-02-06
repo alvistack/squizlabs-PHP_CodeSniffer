@@ -1,0 +1,7 @@
+php-codesniffer: copyright-without-copyright-notice
+php-codesniffer: empty-binary-package
+php-codesniffer: executable-not-elf-or-script
+php-codesniffer: initial-upload-closes-no-bugs
+php-codesniffer: no-manual-page
+php-codesniffer: script-not-executable
+php-codesniffer: zero-byte-file-in-doc-directory

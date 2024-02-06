@@ -1,2 +1,1 @@
-usr/bin/phpcbf
-usr/bin/phpcs
+vendor/*
